@@ -1,0 +1,52 @@
+/node_modules
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ecommerce-admin dependencies
+/ecommerce-admin/node_modules
+/ecommerce-admin/.pnp
+/ecommerce-admin/.pnp.js
+# testing
+/ecommerce-admin/coverage
+# next.js
+/ecommerce-admin/.next/
+/ecommerce-admin/out/
+# production
+/ecommerce-admin/build
+# misc
+/ecommerce-admin/.DS_Store
+/ecommerce-admin/*.pem
+# debug
+/ecommerce-admin/npm-debug.log*
+/ecommerce-admin/yarn-debug.log*
+/ecommerce-admin/yarn-error.log*
+# local env files
+/ecommerce-admin/.env.local
+/ecommerce-admin/.env.development.local
+/ecommerce-admin/.env.test.local
+/ecommerce-admin/.env.production.local
+# vercel
+/ecommerce-admin/.vercel
+# Ecommerce-client dependencies
+/ecommerce-client/node_modules
+/ecommerce-client/.pnp
+/ecommerce-client/.pnp.js
+# testing
+/ecommerce-client/coverage
+# next.js
+/ecommerce-client/.next/
+/ecommerce-client/out/
+# production
+/ecommerce-client/build
+# misc
+/ecommerce-client/.DS_Store
+/ecommerce-client/*.pem
+# debug
+/ecommerce-client/npm-debug.log*
+/ecommerce-client/yarn-debug.log*
+/ecommerce-client/yarn-error.log*
+# local env files
+/ecommerce-client/.env.local
+/ecommerce-client/.env.development.local
+/ecommerce-client/.env.test.local
+/ecommerce-client/.env.production.local
+# vercel
+/ecommerce-client/.vercel
